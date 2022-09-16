@@ -8,4 +8,4 @@ loguru
 python-dotenv
 youtube-dl
 pyAesCrypt
-ffmpeg-python   
+ffmpeg-python==0.1.17   
