@@ -1,5 +1,5 @@
 Pillow
-Pyrogram
+Pyrogram==1.2.0
 TgCrypto
 beautifulsoup4
 requests
